@@ -1,2 +1,3 @@
 name=zero
 email=1480210287@qq.com
+pwd=123
